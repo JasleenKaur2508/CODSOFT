@@ -4,9 +4,7 @@
 This repository contains the tasks and projects completed during my Web Development Internship at CodSoft. The internship was focused on building foundational as well as intermediate web development skills, including HTML, CSS, JavaScript, and responsive design.
 
 🎯 Internship Details
-Organization: CodSoft
-Role: Web Development Intern
-Duration: 1 month 
+Organization: CodSoft , Role: Web Development Intern , Duration: 1 month 
 
 ✅ Tasks Completed
 Landing Page
@@ -19,8 +17,4 @@ Calculator
 A simple calculator that performs basic arithmetic operations using JavaScript and styled with CSS Grid/Flexbox.
 
 🛠️ Technologies Used
-HTML5
-CSS
-JavaScript
-VS Code
-Git & GitHub
+HTML5 , CSS , JavaScript , VS Code , Git & GitHub
