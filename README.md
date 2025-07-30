@@ -1,12 +1,12 @@
 💼 CodSoft Web Development Internship
 
-📝 Overview
+📝 Overview :
 This repository contains the tasks and projects completed during my Web Development Internship at CodSoft. The internship was focused on building foundational as well as intermediate web development skills, including HTML, CSS, JavaScript, and responsive design.
 
-🎯 Internship Details
+🎯 Internship Details :
 Organization: CodSoft , Role: Web Development Intern , Duration: 1 month 
 
-✅ Tasks Completed
+✅ Tasks Completed :
 Landing Page
 A responsive and visually appealing landing page built using HTML and CSS. It includes navigation, hero section, call-to-action buttons, and footer.
 
@@ -16,5 +16,5 @@ A personal portfolio website to showcase projects, skills, and contact informati
 Calculator 
 A simple calculator that performs basic arithmetic operations using JavaScript and styled with CSS Grid/Flexbox.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 HTML5 , CSS , JavaScript , VS Code , Git & GitHub
